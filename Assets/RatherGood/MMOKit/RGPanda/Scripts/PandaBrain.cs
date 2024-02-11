@@ -227,7 +227,7 @@ namespace RatherGood.Panda
         idle,
         patrol,
         //greeting, //greeting (or actions) on first encounter with another entity
-        //interacting, //conversation or trade
+        interacting, //conversation or trade
         alert,
         combat,
         fleeing, //highest priority
